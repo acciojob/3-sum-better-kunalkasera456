@@ -27,6 +27,7 @@ function threeSum(arr, target) {
 			 }
 		 }
 	}
+	 return ans;
   
 }
 
